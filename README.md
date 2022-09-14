@@ -1,4 +1,4 @@
-<img src="uml-logo.png" align="right" width="150">
+<img src="UML_logo.svg.png" align="right" width="150">
 
 # MODELAGEM-DE-DADOS-UML
 
