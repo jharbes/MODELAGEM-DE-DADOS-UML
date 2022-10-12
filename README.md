@@ -1,4 +1,4 @@
-<img src="logo-spring.png" align="right" width="100">
+<img src="logo-spring2.png" align="right" width="100">
 <img src="logo-java.png" align="right" width="100">
 <img src="UML_logo.svg.png" align="right" width="100">
 
