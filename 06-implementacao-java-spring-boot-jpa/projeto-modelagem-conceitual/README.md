@@ -4,7 +4,7 @@
 
 # projeto-modelagem-conceitual
 
-<h3>Projeto Java com JPA e Spring Boot aplicando modelagem conceitual UML</h3>
+<h3>Projeto Web Back-End Java de carrinho de compras, feito com Java, JPA e Spring Boot aplicando modelagem conceitual UML</h3>
 <br>
 
 A <strong>UML</strong> é uma linguagem-padrão para a elaboração da estrutura de projetos de software. Ela poderá ser empregada para a visualização, a especificação, a construção e a documentação de artefatos que façam uso de sistemas complexos de software.
