@@ -2,7 +2,7 @@
 <img src="logo-java.png" align="right" width="100">
 <img src="UML_logo.svg.png" align="right" width="100">
 
-# projeto-modelagem-conceitual
+# projeto-carrinho-de-compras
 
 <h3>Projeto Web Back-End Java de carrinho de compras, feito com Java, JPA e Spring Boot aplicando modelagem conceitual UML</h3>
 <br>
