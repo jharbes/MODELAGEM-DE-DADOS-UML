@@ -21,6 +21,7 @@ O <strong>Spring</strong> é um framework open source para a plataforma Java cri
 <ul>
 <li>Código da credencial: 	UC-8af0584b-b302-433b-9a64-99a8c1c7afbf</li>
 <li>URL da credencial: 		https://ude.my/UC-8af0584b-b302-433b-9a64-99a8c1c7afbf</li>
-<ul>
+</ul>
+<br>
 
 <img src="certificado-modelagemDeDados-UML-UC-8af0584b-b302-433b-9a64-99a8c1c7afbf.jpg" align="center" width="900">
